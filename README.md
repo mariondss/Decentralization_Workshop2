@@ -1,6 +1,6 @@
 # Decentralization_Workshop2
 
-##Torrent
+## Torrent
 
 Download the Torrent package.
 
