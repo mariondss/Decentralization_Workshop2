@@ -5,6 +5,7 @@ Download the Torrent package.
 ![image](https://github.com/mariondss/Decentralization_Workshop2/assets/114142047/effc320a-c8c4-4bee-89e9-91cdb0448dea)
 
 Check installation.
+
 ![image](https://github.com/mariondss/Decentralization_Workshop2/assets/114142047/0db22502-d1ef-42ed-9be8-ee7cb46470bf)
 
 Questions
