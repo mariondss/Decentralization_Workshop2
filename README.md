@@ -6,11 +6,11 @@ Download the Torrent package.
 
 ![image](https://github.com/mariondss/Decentralization_Workshop2/assets/114142047/effc320a-c8c4-4bee-89e9-91cdb0448dea)
 
-#Check installation.
+Check installation.
 
 ![image](https://github.com/mariondss/Decentralization_Workshop2/assets/114142047/0db22502-d1ef-42ed-9be8-ee7cb46470bf)
 
-Questions
+### Questions
 Q1 - Create a torrent containing this image.
 
 ![image](https://github.com/mariondss/Decentralization_Workshop2/assets/114142047/7d21c57a-4768-4cc8-aeda-5492555a37d6)
