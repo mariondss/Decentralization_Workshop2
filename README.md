@@ -38,7 +38,7 @@ Q3 - Copy the partition1 folder and then generate the associated torrent. What d
 Only the hash is modified.
 
 
-##IPFS
+## IPFS
 
 Installation
 Install IPFS CLI and IPFS Desktop client.
@@ -48,9 +48,8 @@ Install the IPFS Desktop CLI
 IPFS commands
 IPFS CLI Basics: Accessing Files
 
-👆 Watch this video to learn IPFS cli commands
 
-Questions
+### Questions
 Be sure to have download IPFS Desktop and IPFS CLI before starting this section
 
 Q1 - Upload the previous image to IPFS.
