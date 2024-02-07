@@ -40,20 +40,28 @@ Only the hash is modified.
 
 ## IPFS
 
-Installation
-Install IPFS CLI and IPFS Desktop client.
+Installation IPFS CLI 
 
-Install the IPFS Desktop App
-Install the IPFS Desktop CLI
-IPFS commands
-IPFS CLI Basics: Accessing Files
+![image](https://github.com/mariondss/Decentralization_Workshop2/assets/114142047/d18b8639-7033-4152-85ea-f53e0079d326)
+
+Installation IPFS Desktop client.
+
+![image](https://github.com/mariondss/Decentralization_Workshop2/assets/114142047/50aade1f-dfc4-40f2-819f-3230f3aa2858)
 
 
 ### Questions
 Be sure to have download IPFS Desktop and IPFS CLI before starting this section
 
 Q1 - Upload the previous image to IPFS.
+
+![image](https://github.com/mariondss/Decentralization_Workshop2/assets/114142047/a4a92a3a-3741-4ea2-b032-17841796707f)
+
+CID : QmeJaufp9seXCpHMFwxX53P3oRQW8Ny1DduCXAxebEwxv7
+
 Q2 - Now upload partition1 to IPFS. What do you observe compared to the torrent part?
+
+
+
 Q3 - Copy the partition1 folder and then generate the associated torrent. What do you observe?
 Create your first decentralized website
 Upload files on IPFS using Pinata
