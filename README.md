@@ -60,9 +60,14 @@ CID : QmeJaufp9seXCpHMFwxX53P3oRQW8Ny1DduCXAxebEwxv7
 
 Q2 - Now upload partition1 to IPFS. What do you observe compared to the torrent part?
 
+![image](https://github.com/mariondss/Decentralization_Workshop2/assets/114142047/c9b4b64a-d7cb-49e7-bf8d-150fa8e8f724)
 
+IPFS uses a distributed hash table to locate content, meaning that each node in the network stores a portion of the overall index, allowing for efficient content discovery without the need for central servers or trackers. On the other hand, torrents rely on trackers to coordinate peers, facilitating the initial connection between users sharing the same file. The size and the hash are different for the same folder partition1.
 
 Q3 - Copy the partition1 folder and then generate the associated torrent. What do you observe?
+
+![image](https://github.com/mariondss/Decentralization_Workshop2/assets/114142047/451fef62-e383-4066-84ac-b2c1426b9ce0)
+
 Create your first decentralized website
 Upload files on IPFS using Pinata
 Follow the following guide: https://docs.pinata.cloud/recipes/upload-a-file-to-pinata
