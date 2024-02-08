@@ -68,9 +68,13 @@ Q3 - Copy the partition1 folder and then generate the associated torrent. What d
 
 ![image](https://github.com/mariondss/Decentralization_Workshop2/assets/114142047/451fef62-e383-4066-84ac-b2c1426b9ce0)
 
-Create your first decentralized website
+After recovering the partition1 folder on ipfs and then generating its associated torrent, we notice that only the hash and the name (which is the CID) are different
+
+
+## Create your first decentralized website
+
 Upload files on IPFS using Pinata
-Follow the following guide: https://docs.pinata.cloud/recipes/upload-a-file-to-pinata
+
 
 Leverage P2P to create a website hosted decentralizely.
 In this section we will host a website directly from IPFS. Plus we will automaticly deploy website modification to production using GitHub action.
